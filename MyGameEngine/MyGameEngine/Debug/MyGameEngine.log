@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\cygwin64\home\eronj\mygameengine\mygameengine\mygameengine\main.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MyGameEngine.vcxproj -> C:\cygwin64\home\eronj\MyGameEngine\MyGameEngine\Debug\MyGameEngine.exe
+  MyGameEngine.vcxproj -> C:\cygwin64\home\eronj\MyGameEngine\MyGameEngine\Debug\MyGameEngine.pdb (Partial PDB)
